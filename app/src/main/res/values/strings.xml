@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My car</string>
+    <string name="add_abastecimento">Add fuel</string>
+    <string name="vizual_abastecimento">View Supply</string>
+    <string name="atual">Current autonomy</string>
+    <string name="quilo_atual">Current mileage:</string>
+    <string name="litros_abastecidos">Liters supplied:</string>
+    <string name="data">Date of creation:</string>
+    <string name="posto">Station:</string>
+    <string name="confirmar">Confirm</string>
+    <string name="litros">Liters:</string>
+
+    <string-array name="postos">
+        <item>Texaco</item>
+        <item>Shell</item>
+        <item>Petrobras</item>
+        <item>Ipiranga</item>
+        <item>Outros</item>
+    </string-array>
+</resources>

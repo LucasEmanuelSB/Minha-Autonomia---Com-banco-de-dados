@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu automóvel</string>
+    <string name="add_abastecimento">Adicionar abastecimento</string>
+    <string name="vizual_abastecimento">Vizualizar abastecimento</string>
+    <string name="atual">Autonomia atual</string>
+    <string name="quilo_atual">Quilometragem atual:</string>
+    <string name="litros_abastecidos">Litros abastecidos:</string>
+    <string name="data">Data de criação:</string>
+    <string name="posto">Posto:</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="litros">Litros:</string>
+
+</resources>
